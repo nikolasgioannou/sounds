@@ -1,4 +1,4 @@
 {
-  "sounds": ["sounds/snap.mp3"],
-  "_base": "https://raw.githubusercontent.com/nikolasgioannou/sounds/main/"
+  "_base": "https://raw.githubusercontent.com/nikolasgioannou/sounds/main/",
+  "snap": "sounds/snap.mp3"
 }
